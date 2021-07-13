@@ -1,0 +1,4 @@
+module.exports = {
+    name: 'spirit',
+    cards: ["Amano-Iwato", "Amaterasu", "Aratama", "Asura Priest", "Dark Dust Spirit", "Fenghuang", "Fushi No Tori", "Gishki Emilia", "Gishki Natalia", "Great Long Nose", "Gundari", "Hebo, Lord of the River", "Hino-Kagu-Tsuchi", "Inaba White Rabbit", "Izanami", "Kai-Den Kendo Spirit", "Kinka-byo", "Kuro-Obi Karate Spirit", "Maharaghi", "Nikitama", "Otohime", "Rasetsu", "Sacred Spirit of the Ice Barrier", "Shinobaron Peacock", "Shinobaroness Peacock", "Shinobird Crane", "Shinobird Crow", "Shinobird Pigeon", "Susa Soldier", "Tsukuyomi", "Yaksha", "Yamata Dragon", "Yamato-no-Kami", "Yata-Garasu", "Yoko-Zuna Sumo Spirit"]
+}

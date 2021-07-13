@@ -1,0 +1,4 @@
+module.exports = {
+    name: 'ancientgear',
+    cards: ["Ancient Gear Beast", "Ancient Gear Box", "Ancient Gear Cannon", "Ancient Gear Castle", "Ancient Gear Catapult", "Ancient Gear Drill", "Ancient Gear Engineer", "Ancient Gear Explosive", "Ancient Gear Factory", "Ancient Gear Fist", "Ancient Gear Fortress", "Ancient Gear Frame", "Ancient Gear Fusion", "Ancient Gear Gadget", "Ancient Gear Gadjitron Chimera", "Ancient Gear Gadjitron Dragon", "Ancient Gear Golem", "Ancient Gear Golem - Ultimate Pound", "Ancient Gear Howitzer", "Ancient Gear Hunting Hound", "Ancient Gear Hydra", "Ancient Gear Knight", "Ancient Gear Megaton Golem", "Ancient Gear Reactor Dragon", "Ancient Gear Reborn", "Ancient Gear Soldier", "Ancient Gear Tank", "Ancient Gear Workshop", "Ancient Gear Wyvern", "Chaos Ancient Gear Gear Giant", "Cross-Dimensional Duel", "Geartown", "Spell Gear", "Ultimate Ancient Gear Golem"]
+}

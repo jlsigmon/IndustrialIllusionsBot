@@ -1,0 +1,4 @@
+module.exports = {
+    name: 'gravekeepers',
+    cards: ["Charm of Shabti", "Gravekeeper's Ambusher", "Gravekeeper's Assailant", "Gravekeeper's Cannonholder", "Gravekeeper's Chief", "Gravekeeper's Commandant", "Gravekeeper's Curse", "Gravekeeper's Descendant", "Gravekeeper's Guard", "Gravekeeper's Headman", "Gravekeeper's Heretic", "Gravekeeper's Nobleman", "Gravekeeper's Oracle", "Gravekeeper's Priestess", "Gravekeeper's Recruiter", "Gravekeeper's Servant", "Gravekeeper's Shaman", "Gravekeeper's Spear Soldier", "Gravekeeper's Spiritualist", "Gravekeeper's Spy", "Gravekeeper's Stele", "Gravekeeper's Supernaturalist", "Gravekeeper's Vassal", "Gravekeeper's Visionary", "Gravekeeper's Watcher", "Hidden Temples of Necrovalley", "Imperial Tombs of Necrovalley", "Necrovalley", "Necrovalley Temple", "Necrovalley Throne", "Rite of Spirit", "Royal Tribute"]
+}

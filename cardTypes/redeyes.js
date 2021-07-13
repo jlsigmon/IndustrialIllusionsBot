@@ -1,0 +1,4 @@
+module.exports = {
+    name: 'redeyes',
+    cards: ["Black Dragon's Chick", "Black Metal Dragon", "Cards of the Red Stone", "Dark Dragon Ritual", "Gearfried the Red-Eyes Iron Knight", "Inferno Fire Blast", "Lord of the Red", "Meteor Black Comet Dragon", "Meteor Black Dragon", "Meteor Dragon Red-Eyes Impact", "Paladin of Dark Dragon", "Red-Eyes Alternative Black Dragon", "Red-Eyes Black Dragon", "Red-Eyes B. Dragon", "Red-Eyes Baby Dragon", "Red-Eyes Black Dragon Sword", "Red-Eyes Black Flare Dragon", "Red-Eyes Black Metal Dragon", "Red-Eyes Burn", "Red-Eyes Darkness Dragon", "Red-Eyes Darkness Metal Dragon", "Red-Eyes Fang with Chain", "Red-Eyes Flare Metal Dragon", "Red-Eyes Fusion", "Red-Eyes Insight", "Red-Eyes Retro Dragon", "Red-Eyes Slash Dragon", "Red-Eyes Spirit", "Red-Eyes Transmigration", "Red-Eyes Wyvern", "Red-Eyes Zombie Dragon", "Red-Eyes Zombie Necro Dragon", "Return of the Red-Eyes", "The Black Stone of Legend"]
+}

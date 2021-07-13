@@ -1,0 +1,4 @@
+module.exports = {
+    name: 'toon',
+    cards: ["Blue-Eyes Toon Dragon", "Comic Hand", "Manga Ryu-Ran", "Mimicat", "Red-Eyes Toon Dragon", "Shadow Toon", "Toon Ancient Gear Golem", "Toon Barrel Dragon", "Toon Black Luster Soldier", "Toon Bookmark", "Toon Briefcase", "Toon Buster Blader", "Toon Cannon Soldier", "Toon Cyber Dragon", "Toon Dark Magician", "Toon Dark Magician Girl", "Toon Defense", "Toon Gemini Elf", "Toon Goblin Attack Force", "Toon Harpie Lady", "Toon Toon Mask", "Toon Kingdom", "Toon Masked Sorcerer", "Toon Mermaid", "Toon Page-Flip", "Toon Rollback", "Toon Summoned Skull", "Toon Table of Contents", "Toon Terror", "Toon World"]
+}

@@ -1,0 +1,18 @@
+module.exports = {
+    name: 'rds',
+    description: "Rise of Destiny",
+    type: "sod-cdip",
+    cards: ["The Creator","Mystic Swordsman LV6","Silent Swordsman LV3","Perfect Machine King","Thestalos the Firestorm Monarch","B.E.S Big Core","Triangle Ectasy Spark","Monster Reincarnation","Tragedy","Divine Wrath","Pikeru's Circle of Enchantment","Ultimate Insect LV3","Sasuke Samurai #4","Gaia Soul the Combustible Collective","Fusilier Dragon, the Dual-Mode Beast","Dekoichi the Battlechanted Locomotive","A-Team: Trap Disposal Unit","Dark Blade the Dragon Knight","Serial Spell","Necklace of Command","Machine Duplication","Flint","Rare Metalmorph","Chain Burst","Covering Fire","Woodborg Inpachi","Mighty Guard","Bokoichi the Freightening Car","Harpie Girl","The Creator Incarnate","Nightmare Penguin","Heavy Mech Support Platform","Element Magician","Element Saurus","Roc from the Valley of Haze","Harpie Lady 1","Harpie Lady 2","Harpie Lady 3","Raging Flame Sprite","Eagle Eye","Tactical Espionage Expert","Invasion of Flames","Creeping Doom Manta","Pitch-Black Warwolf","Mirage Dragon","Fox Fire","Homunculus the Alchemic Being","Mokey Mokey King","Harpies' Hunting Ground","Mokey Mokey Smackdown","Back to Square One","Ballista of Rampart Smashing","Lighten the Load","Malice Dispersion","Xing Zhen Hu","Fruits of Kozaky's Studies","Mind Haxorz","Fuh-Rin-Ka-Zan","Spell Purification","Astral Barrier"],
+    common: ["Woodborg Inpachi","Mighty Guard","Bokoichi the Freightening Car","Harpie Girl","The Creator Incarnate","Nightmare Penguin","Heavy Mech Support Platform","Element Magician","Element Saurus","Roc from the Valley of Haze","Harpie Lady 1","Harpie Lady 2","Harpie Lady 3","Raging Flame Sprite","Eagle Eye","Tactical Espionage Expert","Invasion of Flames","Creeping Doom Manta","Pitch-Black Warwolf","Mirage Dragon","Fox Fire","Homunculus the Alchemic Being","Mokey Mokey King","Harpies' Hunting Ground","Mokey Mokey Smackdown","Back to Square One","Ballista of Rampart Smashing","Lighten the Load","Malice Dispersion","Xing Zhen Hu","Fruits of Kozaky's Studies","Mind Haxorz","Fuh-Rin-Ka-Zan","Spell Purification","Astral Barrier"],
+    rare: ["Ultimate Insect LV3","Sasuke Samurai #4","Gaia Soul the Combustible Collective","Fusilier Dragon, the Dual-Mode Beast","Dekoichi the Battlechanted Locomotive","A-Team: Trap Disposal Unit","Dark Blade the Dragon Knight","Serial Spell","Necklace of Command","Machine Duplication","Flint","Rare Metalmorph","Chain Burst","Covering Fire"],
+    super: ["Thestalos the Firestorm Monarch","B.E.S Big Core","Triangle Ectasy Spark","Monster Reincarnation","Tragedy","Divine Wrath","Pikeru's Circle of Enchantment"],
+    ultra: ["The Creator","Mystic Swordsman LV6","Silent Swordsman LV3","Perfect Machine King"],
+    ultimate: ["The Creator","Mystic Swordsman LV6","Silent Swordsman LV3","Perfect Machine King","Thestalos the Firestorm Monarch","B.E.S Big Core","Triangle Ectasy Spark","Monster Reincarnation","Tragedy","Divine Wrath","Pikeru's Circle of Enchantment","Ultimate Insect LV3","Sasuke Samurai #4","Gaia Soul the Combustible Collective","Fusilier Dragon, the Dual-Mode Beast","Dekoichi the Battlechanted Locomotive","A-Team: Trap Disposal Unit","Dark Blade the Dragon Knight","Serial Spell","Necklace of Command","Machine Duplication","Flint","Rare Metalmorph","Chain Burst","Covering Fire"],
+    price: 100,
+    commonnum: 7,
+    commonnum2: 1,
+    rarenum: 1,
+    supernum: 1,
+    ultranum: 1,
+    ultimatenum: 1,
+}

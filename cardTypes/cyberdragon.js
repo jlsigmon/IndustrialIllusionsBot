@@ -1,0 +1,4 @@
+module.exports = {
+    name: 'cyberdragon',
+    cards: ["Armored Cybern", "Attack Reflector Unit", "Cyber Dragon", "Cyber Dragon Core", "Cyber Dragon Drei", "Cyber Dragon Herz", "Cyber Dragon Infinity", "Cyber Dragon Nachster", "Cyber Dragon Nova", "Cyber Dragon Vier", "Cyber Dragon Zwei", "Cyber Emergency", "Cyber Eternity Dragon", "Cyber Network", "Cyber Pharos", "Cyber Repair Plant", "Cyber Revsystem", "Cyberload Fusion", "Cybernetic Hidden Technology", "Cybernetic Overflow", "Cybernetic Revolution", "Evolution Burst", "Photon Generator Unit", "Proto-Cyber Dagon", "Super Strident Blast", "Cyber End Dragon", "Malefic Cyber End Dragon"]
+}

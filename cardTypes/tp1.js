@@ -1,0 +1,4 @@
+module.exports = {
+    name: 'tp1',
+    cards: ["Mechanicalchaser","Axe Raider","Kwagar Hercules","Patrol Robo","White Hole","Elf's Light","Steel Shell","Blue Medicine","Raimei","Burning Spear","Gust Fan","Tiger Axe","Goddess with the Third Eye","Beastking of the Swamps","Versago the Destroyer","Wattkid","Giant Flea","Bean Soldier","The Statue of Easter Island","Corroding Shark","Wow Warrior","Winged Dragon, Guardian of the Fortress #2","Oscillo Hero","Shining Friendship","Hercules Beetle","The Judgement Hand","Wodan the Resident of the Forest","Cyber Soldier of Darkworld","Cockroach Knight","Kuwagata a"],
+}

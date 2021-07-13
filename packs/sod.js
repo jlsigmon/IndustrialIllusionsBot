@@ -1,0 +1,18 @@
+module.exports = {
+    name: 'sod',
+    description: "Soul of the Duelist",
+    type: "sod-cdip",
+    cards: ["Charcoal Inpachi","Ultimate Insect LV1","Horus the Black Flame Dragon LV4","Dark Mimic LV3","Mystic Swordsman LV2","Armed Dragon LV5","Ninja Grandmaster Sasuke","Rafflesia Seduction","Mind on Air","Ojama King","Master of Oz","Hammer Shot","Spirit Barrier","Enervating Mist","Neo Aqua Madoor","Skull Dog Marron","Goblin Calligrapher","Dark Mimic LV1","Armed Dragon LV3","Horus' Servant","Black Dragon's Chick","Malice Doll of Demise","Ultimate Baseball Kid","Element Dragon","Element Soldier","Howling Insect","Masked Dragon","Unshaven Angler","The Trojan Horse","Nobleman-Eater Bug","Enraged Muka Muka","Hade-Hane","Sanwitch","Dark Factory of Mass Production","Mind Wipe","Abyssal Designator","Level Up!","The Graveyard in the Fourth Dimension","Two-Man Cell Battle","Big Wave Small Wave","Fusion Weapon","Ritual Weapon","Taunt","Absolute End","Ninjitsu Art of Decoy","Heavy Slump","Mind Crush","Gorgon's Eye","Cemetary Bomb"],
+    common: ["Neo Aqua Madoor","Skull Dog Marron","Goblin Calligrapher","Dark Mimic LV1","Armed Dragon LV3","Horus' Servant","Black Dragon's Chick","Malice Doll of Demise","Ultimate Baseball Kid","Element Dragon","Element Soldier","Howling Insect","Masked Dragon","Unshaven Angler","The Trojan Horse","Nobleman-Eater Bug","Enraged Muka Muka","Hade-Hane","Sanwitch","Dark Factory of Mass Production","Mind Wipe","Abyssal Designator","Level Up!","The Graveyard in the Fourth Dimension","Two-Man Cell Battle","Big Wave Small Wave","Fusion Weapon","Ritual Weapon","Taunt","Absolute End","Ninjitsu Art of Decoy","Heavy Slump","Mind Crush","Gorgon's Eye","Cemetary Bomb"],
+    rare: ["Charcoal Inpachi","Ultimate Insect LV1","Horus the Black Flame Dragon LV4","Dark Mimic LV3","Mystic Swordsman LV2","Armed Dragon LV5","Ninja Grandmaster Sasuke","Rafflesia Seduction","Mind on Air","Ojama King","Master of Oz","Hammer Shot","Spirit Barrier","Enervating Mist"],
+    super: ["Horus the Black Flame Dragon LV6","Mobius the Frost Monarch","Penumbral Soldier Lady","Ectoplasmer","Greed","Muko","Hallowed Life Barrier"],
+    ultra: ["Horus the Black Flame Dragon LV8","Mystic Swordsman LV4","Armed Dragon LV7","Inferno Fire Blast"],
+    ultimate: ["Horus the Black Flame Dragon LV8","Mystic Swordsman LV4","Armed Dragon LV7","Inferno Fire Blast","Horus the Black Flame Dragon LV6","Mobius the Frost Monarch","Penumbral Soldier Lady","Ectoplasmer","Greed","Muko","Hallowed Life Barrier","Charcoal Inpachi","Ultimate Insect LV1","Horus the Black Flame Dragon LV4","Dark Mimic LV3","Mystic Swordsman LV2","Armed Dragon LV5","Ninja Grandmaster Sasuke","Rafflesia Seduction","Mind on Air","Ojama King","Master of Oz","Hammer Shot","Spirit Barrier","Enervating Mist"],
+    price: 100,
+    commonnum: 7,
+    commonnum2: 1,
+    rarenum: 1,
+    supernum: 1,
+    ultranum: 1,
+    ultimatenum: 1,
+}

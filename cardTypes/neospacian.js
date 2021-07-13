@@ -1,0 +1,4 @@
+module.exports = {
+    name: 'neospacian',
+    cards: ["Common Soul", "Contact Gate", "Convert Contact", "Cross Porter", "Neo-Spacian Air Hummingbird", "Neo-Spacian Aqua Dolphin", "Neo-Spacian Dark Panther", "Neo-Spacian Flare Scarab", "Neo-Spacian Glow Moss", "Neo-Spacian Grand Mole", "Neo-Spacian Marine Dolphin", "Neo-Spacian Twinkle Moss", "NEXT", "Space Gift", "Neo Space", "Instant Neos Space", "Elemental HERO Neos", "Chrysalis Chicky", "Chrysalis Dolphin", "Chrysalis Larva", "Chrysalis Mole", "Chrysalis Phantail", "Chrysalis Pinny", "Cocoon Party", "Cocoon Rebirth", "Cocoon Veil", "Elemental HERO Brave Neos", "Elemental HERO Chaos Neos", "Elemental HERO Cosmo Neos", "Elemental HERO Dark Neos", "Elemental HERO Divine Neos", "Elemental HERO Flare Neos", "Elemental HERO Glow Neos", "Elemental HERO Grand Neos", "Elemental HERO Magma Neos", "Elemental HERO Marine Neos", "Elemental HERO Nebula Neos", "Elemental HERO Storm Neos", "NEX"]
+}

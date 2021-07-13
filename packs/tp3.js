@@ -1,0 +1,16 @@
+module.exports = {
+    name: 'tp3',
+    description: "Tournament Pack 3rd Season",
+    type: "tourney",
+    cards: ["Needle Worm","Anti Raigeki","Mechanicalchaser","Black Skull Dragon","Horn of Heaven","Axe Raider","Kwagar Hercules","Patrol Robo","White Hole","Dragon Capture Jar","Goblin's Secret Remedy","Final Flame","Spirit of the Harp","Pot of Greed","Karbonala Warrior","Darkfire Dragon","Elegant Egotist","Dark Elf","Little Chimera","Bladefly"],
+    common: ["Dragon Capture Jar","Goblin's Secret Remedy","Final Flame","Spirit of the Harp","Pot of Greed","Karbonala Warrior","Darkfire Dragon","Elegant Egotist","Dark Elf","Little Chimera","Bladefly"],
+    rare: ["Axe Raider","Kwagar Hercules","Patrol Robo","White Hole"],
+    super: ["Anti Raigeki","Mechanicalchaser","Black Skull Dragon","Horn of Heaven"],
+    ultra: ["Needle Worm"],
+    price: 300,
+    commonnum: 2,
+    commonnum2: 1,
+    rarenum: 1,
+    supernum: 1,
+    ultranum: 1,
+}

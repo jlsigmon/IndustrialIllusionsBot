@@ -1,0 +1,4 @@
+module.exports = {
+    name: 'crystalbeast',
+    cards: ["Advanced Dark", "Ancient City - Rainbow Ruins", "Counter Gem", "Crystal Abundance", "Crystal Beacon", "Crystal Beast Amber Mammoth", "Crystal Beast Amethyst Cat", "Crystal Beast Cobalt Eagle", "Crystal Beast Emerald Tortoise", "Crystal Beast Ruby Carbuncle", "Crystal Beast Sapphire Pegasus", "Crystal Beast Topaz Tiger", "Crystal Blessing", "Crystal Bond", "Crystal Conclave", "Crystal Pair", "Crystal Promise", "Crystal Raigeki", "Crystal Tree", "Rainbow Dragon", "Rainbow Dragon, the Zenith Crystal Beast", "Rainbow Gravity", "Rainbow Overdragon", "Rainbow Path", "Rainbow Neos", "Rainbow Refraction", "Rare Value", "Ultimate Crystal Magic"]
+}

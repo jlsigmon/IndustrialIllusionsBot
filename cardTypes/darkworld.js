@@ -1,0 +1,4 @@
+module.exports = {
+    name: 'darkworld',
+    cards: ["Beiige, Vanguard of Dark World", "Broww, Huntsman of Dark World", "Brron, Mad King of Dark World", "Ceruli, Guru of Dark World", "Dark World Brainwashing", "Dark World Dealings", "Dark World Grimoire", "Dark World Lightning", "Dark World Reinforcements", "Gateway to Dark World", "Goldd, Wu-Lord of Dark World", "Grapha, Dragon Lord of Dark World", "Gren, Tactician of Dark World", "Kahkki, Guerilla of Dark World", "Latinum, Exarch of Dark World", "Lucent, Netherlord of Dark World", "Reign-Beaux, Overlord of Dark World", "Renge, Gatekeeper of Dark World", "Scarr, Scout of Dark World", "Silva, Warlord of Dark World", "Snoww, Unlight of Dark World", "The Forces of Darkenss", "The Gates of Dark World", "Zure, Knight of Dark World"]
+}

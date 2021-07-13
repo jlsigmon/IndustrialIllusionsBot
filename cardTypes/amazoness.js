@@ -1,0 +1,4 @@
+module.exports = {
+    name: 'amazoness',
+    cards: ["Amazoness Archer", "Amazoness Archers", "Amazoness Baby Tiger", "Amazoness Blowpiper", "Amazoness Call", "Amazoness Chain Master", "Amazoness Empresss", "Amazoness Fighter", "Amazoness Fighting Spirit", "Amazoness Heirloom", "Amazoness Onslaught", "Amazoness Paladin", "Amazoness Pet Liger", "Amazoness Princess", "Amazoness Queen", "Amazoness Sage", "Amazoness Scouts", "Amazoness Shamanism", "Amazoness Spellcaster", "Amazoness Spy", "Amazoness Swords Woman", "Amazoness Tiger", "Amazoness Trainee", "Amazoness Village", "Amazoness Willpower", "Dramatic Rescue", "Queen's Pawn"]
+}

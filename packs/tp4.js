@@ -1,0 +1,16 @@
+module.exports = {
+    name: 'tp4',
+    description: "Tournament Pack 4th Season",
+    type: "tourney",
+    cards: ["Royal Decree","Morphing Jar","Megamorph","Chain Destruction","The Fiend Megacyber","Dragon Seeker","Giant Red Seasnake","Exile of the Wicked","Call of the Grave","Rush Recklessly","Giant Rat","Senju of the Thousand Hands","Karate Man","Nimble Momonga","Mystic Tomato","Nobleman of Extermination","Magic Drain","Gravity Bind","Hayabusa Knight","Mad Sword Beast"],
+    common: ["Rush Recklessly","Giant Rat","Senju of the Thousand Hands","Karate Man","Nimble Momonga","Mystic Tomato","Nobleman of Extermination","Magic Drain","Gravity Bind","Hayabusa Knight","Mad Sword Beast"],
+    rare: ["Dragon Seeker","Giant Red Seasnake","Exile of the Wicked","Call of the Grave"],
+    super: ["Morphing Jar","Megamorph","Chain Destruction","The Fiend Megacyber"],
+    ultra: ["Royal Decree"],
+    price: 300,
+    commonnum: 2,
+    commonnum2: 1,
+    rarenum: 1,
+    supernum: 1,
+    ultranum: 1,
+}

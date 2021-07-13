@@ -1,0 +1,22 @@
+module.exports = {
+    name: 'csoc',
+    description: "Crossroads of Chaos",
+    type: "taev-docs",
+    cards: ["Overdrive Teleporter","Gladiator Beast Retiari","Tempest Magician","Treacherous Trap Hole","Time Machine","Neos Wiseman","Elemental HERO Divine Neos","Rose, Warrior of Revenge","Tytannial, Princess of Camellias","Plaguespreader Zombie","Turbo Warrior","Black Rose Dragon","Doomkaiser Dragon","Revived King Ha Des","Mark of the Rose","Psychokinesis","Seed of Flame","Hanewata","Queen of Thorns","Black Garden","Secret Village of the Spellcasters","Battle Mania","Urgent Tuning","Psychic Trigger","Rai-Jin","Rai-Mei","Night's End Sorcerer","Puppet Master","Goka, the Pyre of Malice","Red Ogre","Botanical Lion","Turbo Synchron","Mad Archfiend","Morphtronic Boomboxen","Morphtronic Radion","Search Striker","Iron Chain Repairman","Storm Caller","Tiger Dragon","Iron Chain Dragon","Psychic Lifetrancer","Morphtronic Accelerator","Paralyzing Chain","Miracle Fertilizer","The World Tree","Prideful Roar","Pollinosis","Trap of the Imperial Tomb","Cactus Fighter","Virus Cannon","Mosaic Manticore","Healing Wave Generator","Wall of Ivy","Copy Plant","Morphtronic Celfon","Morphtronic Magnen","Morphtronic Datatron","Morphtronic Cameran","Morphtronic Clocken","Gadget Hauler","Gadget Driver","Pursuit Chaser","Iron Chain Snake","Iron Chain Blaster","Iron Chain Coil","Power Injector","Psychic Jumper","Nettles","Gigantic Cephalotus","Horseytail","Botanical Girl","Cursed Fig","Zombie Mammoth","Goblin Decoy Squad","Comrade Swordsman of Landstar","The White Stone of Legend","Jade Knights","Card Rotator","Seed of Deception","Factory of 100 Machines","Morphtronic Cord","Morphtronic Engine","Poison Chain","Teleport","Fragrance Storm","Everliving Underworld Cannon","Omega Goggles","Confusion Chaff","Synchro Strike","Revival Gift","Lineage of Destruction","Doppelganger","Morphtransition","Morphtronic Monitron","Bamboo Scrap","Plant Food Chain","DNA Checkup","Gozen Match","Giant Trap Hole"],
+    common: ["Healing Wave Generator","Wall of Ivy","Copy Plant","Morphtronic Celfon","Morphtronic Magnen","Morphtronic Datatron","Morphtronic Cameran","Morphtronic Clocken","Gadget Hauler","Gadget Driver","Pursuit Chaser","Iron Chain Snake","Iron Chain Blaster","Iron Chain Coil","Power Injector","Psychic Jumper","Nettles","Gigantic Cephalotus","Horseytail","Botanical Girl","Cursed Fig","Zombie Mammoth","Goblin Decoy Squad","Comrade Swordsman of Landstar","The White Stone of Legend","Jade Knights","Card Rotator","Seed of Deception","Factory of 100 Machines","Morphtronic Cord","Morphtronic Engine","Poison Chain","Teleport","Fragrance Storm","Everliving Underworld Cannon","Omega Goggles","Confusion Chaff","Synchro Strike","Revival Gift","Lineage of Destruction","Doppelganger","Morphtransition","Morphtronic Monitron","Bamboo Scrap","Plant Food Chain","DNA Checkup","Gozen Match","Giant Trap Hole"],
+    rare: ["Turbo Synchron","Mad Archfiend","Morphtronic Boomboxen","Morphtronic Radion","Search Striker","Iron Chain Repairman","Storm Caller","Tiger Dragon","Iron Chain Dragon","Psychic Lifetrancer","Morphtronic Accelerator","Paralyzing Chain","Miracle Fertilizer","The World Tree","Prideful Roar","Pollinosis","Trap of the Imperial Tomb","Cactus Fighter","Virus Cannon","Mosaic Manticore"],
+    supr: ["Hanewata","Queen of Thorns","Black Garden","Secret Village of the Spellcasters","Battle Mania","Urgent Tuning","Psychic Trigger","Rai-Jin","Rai-Mei","Night's End Sorcerer","Puppet Master","Goka, the Pyre of Malice","Red Ogre","Botanical Lion"],
+    ultra: ["Rose, Warrior of Revenge","Tytannial, Princess of Camellias","Plaguespreader Zombie","Turbo Warrior","Black Rose Dragon","Doomkaiser Dragon","Revived King Ha Des","Mark of the Rose","Psychokinesis","Seed of Flame"],
+    secret: ["Overdrive Teleporter","Gladiator Beast Retiari","Tempest Magician","Treacherous Trap Hole","Time Machine","Neos Wiseman","Elemental HERO Divine Neos"],
+    ultimate: ["Rose, Warrior of Revenge","Tytannial, Princess of Camellias","Plaguespreader Zombie","Turbo Warrior","Black Rose Dragon","Doomkaiser Dragon","Revived King Ha Des","Mark of the Rose","Psychokinesis","Seed of Flame"],
+    ghost: ["Black Rose Dragon"],
+    price: 100,
+    commonnum: 7,
+    commonnum2: 1,
+    rarenum: 1,
+    supernum: 1,
+    ultranum: 1,
+    secretnum: 1,
+    ultimatenum: 1,
+    ghostnum: 1
+}

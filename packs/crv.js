@@ -1,0 +1,18 @@
+module.exports = {
+    name: 'crv',
+    description: "Cybernetic Revolution",
+    type: "sod-cdip",
+    cards: ["Winged Kuriboh LV10","UFOroid Fighter","Cyber End Dragon","Power Bond","UFOroid","Cyber Dragon","Cybernetic Magician","Goblin Elite Attack Force","B.E.S. Crystal Core","Cyber Twin Dragon","Skyscraper","Wroughtweiler","Dark Catapulter","Elemental HERO Bubbleman","D.D.M. - Different Dimension Master","Miracle Fusion","System Down","Transcendant Wings","Bubble Shuffle","Spark Blaster","Fire Darts","Magical Explosion","Rising Energy","D.D. Trap Hole","Dimension Wall","Cycroid","Soitsu","Mad Lobster","Jerry Beans Man","Patroid","Gyroid","Steamroid","Drillroid","Jetroid","Cybernetic Cyclopean","Mechanical Hound","Cyber Archfiend","Giant Kozaky","Indomitable Fighter Lei Lei","Protective Soul Ailin","Doitsu","Des Frog","T.A.D.P.O.L.E.","Poison Draw Frog","Tyranno Infinity","Batteryman C","Ebon Magician Curran","Steam Gyroid","Fusion Recovery","Dragon's Mirror","Des Croaking","Pot of Generosity","Shien's Spy","Spiritual Earth Art - Kurogane","Spiritual Water Art - Aoi","Spiritual Fire Art - Kurenai","Spiritual Wind Art - Miyabi","A Rival Appears!","Conscription","Prepare to Strike Back"],
+    common: ["Cycroid","Soitsu","Mad Lobster","Jerry Beans Man","Patroid","Gyroid","Steamroid","Drillroid","Jetroid","Cybernetic Cyclopean","Mechanical Hound","Cyber Archfiend","Giant Kozaky","Indomitable Fighter Lei Lei","Protective Soul Ailin","Doitsu","Des Frog","T.A.D.P.O.L.E.","Poison Draw Frog","Tyranno Infinity","Batteryman C","Ebon Magician Curran","Steam Gyroid","Fusion Recovery","Dragon's Mirror","Des Croaking","Pot of Generosity","Shien's Spy","Spiritual Earth Art - Kurogane","Spiritual Water Art - Aoi","Spiritual Fire Art - Kurenai","Spiritual Wind Art - Miyabi","A Rival Appears!","Conscription","Prepare to Strike Back"],
+    rare: ["Wroughtweiler","Dark Catapulter","Elemental HERO Bubbleman","D.D.M. - Different Dimension Master","Miracle Fusion","System Down","Transcendant Wings","Bubble Shuffle","Spark Blaster","Fire Darts","Magical Explosion","Rising Energy","D.D. Trap Hole","Dimension Wall"],
+    super: ["UFOroid","Cyber Dragon","Cybernetic Magician","Goblin Elite Attack Force","B.E.S. Crystal Core","Cyber Twin Dragon","Skyscraper"],
+    ultra: ["Winged Kuriboh LV10","UFOroid Fighter","Cyber End Dragon","Power Bond"],
+    ultimate: ["Winged Kuriboh LV10","UFOroid Fighter","Cyber End Dragon","Power Bond","UFOroid","Cyber Dragon","Cybernetic Magician","Goblin Elite Attack Force","B.E.S. Crystal Core","Cyber Twin Dragon","Skyscraper","Wroughtweiler","Dark Catapulter","Elemental HERO Bubbleman","D.D.M. - Different Dimension Master","Miracle Fusion","System Down","Transcendant Wings","Bubble Shuffle","Spark Blaster","Fire Darts","Magical Explosion","Rising Energy","D.D. Trap Hole","Dimension Wall"],
+    price: 100,
+    commonnum: 7,
+    commonnum2: 1,
+    rarenum: 1,
+    supernum: 1,
+    ultranum: 1,
+    ultimatenum: 1,
+}

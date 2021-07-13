@@ -1,0 +1,4 @@
+module.exports = {
+    name: 'harpie',
+    cards: ["Allurie Mirror Split", "Birdface", "Cyber Harpie Lady", "Cyber Shield", "Cyber Slash Harpie Lady", "Gryphon Wing", "Harpie Channeler", "Harpie Dancer", "Harpie Girl", "Harpie Harpist", "Harpie Lady", "Harpie Lady 1", "Harpie Lady 2", "Harpie Lady 3", "Harpie Lady Elegance", "Harpie Lady Phoenix Formation", "Harpie Lady Sisters", "Harpie Oracle", "Harpie Perfumer", "Harpie Queen", "Harpie's Feather Duster", "Harpie's Feather Rest", "Harpie's Feather Storm", "Harpie's Pet Dragon", "Harpie's Pet Phantasma Dragon", "Harpie's Hunting Ground", "Hysteric Party", "Hysteric Sign", "Triangle Ecstasy Spark"]
+}

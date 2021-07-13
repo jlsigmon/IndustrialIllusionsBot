@@ -1,0 +1,18 @@
+module.exports = {
+    name: 'soi',
+    description: "Shadow of Infinity",
+    type: "sod-cdip",
+    cards: ["Uria, Lord of Searing Flames","Hamon, Lord of Striking Thunder","Raviel, Lord of Phantasms","Cyber Laser Dragon","Cyber Barrier Dragon","B.E.S. Covered Core","Divine Dragon - Excelion","Ruin, Queen of Oblivion","Demise, King of Armageddon","Ancient Gear Castle","Damage Condenser","Proto-Cyber Dragon","Adhesive Explosive","Chainsaw Insect","Doom Dozer","Treeborn Frog","Princess Pikeru","Princess Curran","Memory Crusher","Phantasmal Martyrs","Cyclone Boomerang","Karma Cut","Option Hunter","Goblin Out of the Frying Pan","Malfunction","Elemental HERO Neo Bubbleman","Hero Kid","Ancient Gear","Ancient Gear Cannon","Machine King Prototype","D.D. Guide","Chain Thrasher","Disciple of the Forbidden Spell","Tenkabito Shien","Parasitic Ticky","Gokipon","Silent Insect","Anteatereatingant","Saber Beetle","Beelze Frog","Malice Ascendant","Grass Phantom","Sand Moth","D.3.S. Frog","Hero Heart","Magnet Circle LV2","Ancient Gear Factory","Ancient Gear Drill","Symbol of Heritage","Trial of the Princess","Photon Generator Unit","End of the World","Samsara","Super Junior Confrontation","Miracle Kids","Attack Reflector Unit","Next to be Lost","Generation Shift","Full Salvo","Succcess Probability 0%"],
+    common: ["Elemental HERO Neo Bubbleman","Hero Kid","Ancient Gear","Ancient Gear Cannon","Machine King Prototype","D.D. Guide","Chain Thrasher","Disciple of the Forbidden Spell","Tenkabito Shien","Parasitic Ticky","Gokipon","Silent Insect","Anteatereatingant","Saber Beetle","Beelze Frog","Malice Ascendant","Grass Phantom","Sand Moth","D.3.S. Frog","Hero Heart","Magnet Circle LV2","Ancient Gear Factory","Ancient Gear Drill","Symbol of Heritage","Trial of the Princess","Photon Generator Unit","End of the World","Samsara","Super Junior Confrontation","Miracle Kids","Attack Reflector Unit","Next to be Lost","Generation Shift","Full Salvo","Succcess Probability 0%"],
+    rare: ["Proto-Cyber Dragon","Adhesive Explosive","Chainsaw Insect","Doom Dozer","Treeborn Frog","Princess Pikeru","Princess Curran","Memory Crusher","Phantasmal Martyrs","Cyclone Boomerang","Karma Cut","Option Hunter","Goblin Out of the Frying Pan","Malfunction"],
+    super: ["Cyber Barrier Dragon","B.E.S. Covered Core","Divine Dragon - Excelion","Ruin, Queen of Oblivion","Demise, King of Armageddon","Ancient Gear Castle","Damage Condenser"],
+    ultra: ["Uria, Lord of Searing Flames","Hamon, Lord of Striking Thunder","Raviel, Lord of Phantasms","Cyber Laser Dragon"],
+    ultimate: ["Uria, Lord of Searing Flames","Hamon, Lord of Striking Thunder","Raviel, Lord of Phantasms","Cyber Laser Dragon","Cyber Barrier Dragon","B.E.S. Covered Core","Divine Dragon - Excelion","Ruin, Queen of Oblivion","Demise, King of Armageddon","Ancient Gear Castle","Damage Condenser","Proto-Cyber Dragon","Adhesive Explosive","Chainsaw Insect","Doom Dozer","Treeborn Frog","Princess Pikeru","Princess Curran","Memory Crusher","Phantasmal Martyrs","Cyclone Boomerang","Karma Cut","Option Hunter","Goblin Out of the Frying Pan","Malfunction"],
+    price: 100,
+    commonnum: 7,
+    commonnum2: 1,
+    rarenum: 1,
+    supernum: 1,
+    ultranum: 1,
+    ultimatenum: 1,
+}

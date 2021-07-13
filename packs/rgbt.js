@@ -1,0 +1,22 @@
+module.exports = {
+    name: 'rgbt',
+    description: "Raging Battle",
+    type: "taev-docs",
+    cards: ["Battlesotrm","Immortal Ruler","Hardened Armed Dragon","King of the Beasts","Overwhelm","Light End Dragon","Chaos-End Master","Sphere of Chaos","Strong Wind Dragon","Blackwing - Elphin the Raven","Earthbound Immortal Aslla piscu","Earthbound Immortal Ccapac Apu","Koa'ki Meiru Drago","Exploder Dragonwing","Power Tool Dragon","Trident Dragion","Forbidden Chalice","Grave of the Super Ancient Organism","Rockstone Warrior","Level Warrior","Phoenixian Cluster Amaryllis","Koa'ki Meiru Valafar","Koa'ki Meiru Powerhand","Reinforced Human Psychic Borg","Blackwing Armed Wing","Sea Dragon Lord Gishilnodon","Magic Planter","Delta Crow - Anti Reverse","Swallow Flip","Koa'ki Meiru War Arms","Beast Striker","Swallow's Nest","Dark Verger","Blackwing - Blizzard the Far North","Morphtronic Remoten","Torapart","Koa'ki Meiru Ice","Brain Golem","Deep Sea Diva","One for One","Against the Wind","Iron Core of Koa'ki Meiru","Calming Magic","Moja","Berserking","Spell of Pain","Snowman Eater","Tree Otter","Ojama Red","Ojama Blue","Ojama Country","Emperor Sem","Phoenixian Seed","Rose Tentacles","Hedge Guard","Evil Thorn","Blackwing - Shura the Blue Flame","Blackwing - Kalut the Moon Shadow","Morphtronic Videon","Morphtronic Scopen","Gadget Arms","Koa'ki Meiru Guardian","Koa'ki Meiru Doom","Minoan Centaur","Master Gig","Emissary from Pandemonium","Gigastone Omega","Alien Dog","Spined Gillman","Mermaid Archer","Lava Dragon","Vanguard of the Dragon","G.B. Hunter","Mind Trust","Thorn of Malice","Wonder Clover","Blackwing Whirlwind","Junk Box","Double Tool C&D","Morphtronic Repair Unit","Iron Core Immediate Disposal","Urgent Synthesis","Psychic Path","Natural Tune","Supremacy Berry","Miracle Locus","Crimson Fire","Tuner Capture","Overdoom Line","Wicked Rebirth","Level Retuner","Fake Feather","Trap Stun","Morphtronic Bind","Reckoned Power","Automatic Laser","Attack of the Cornered Rat","Proof of Powerlessness","Bone Temple Block","Mirror of Oaths"],
+    common: ["Phoenixian Seed","Rose Tentacles","Hedge Guard","Evil Thorn","Blackwing - Shura the Blue Flame","Blackwing - Kalut the Moon Shadow","Morphtronic Videon","Morphtronic Scopen","Gadget Arms","Koa'ki Meiru Guardian","Koa'ki Meiru Doom","Minoan Centaur","Master Gig","Emissary from Pandemonium","Gigastone Omega","Alien Dog","Spined Gillman","Mermaid Archer","Lava Dragon","Vanguard of the Dragon","G.B. Hunter","Mind Trust","Thorn of Malice","Wonder Clover","Blackwing Whirlwind","Junk Box","Double Tool C&D","Morphtronic Repair Unit","Iron Core Immediate Disposal","Urgent Synthesis","Psychic Path","Natural Tune","Supremacy Berry","Miracle Locus","Crimson Fire","Tuner Capture","Overdoom Line","Wicked Rebirth","Level Retuner","Fake Feather","Trap Stun","Morphtronic Bind","Reckoned Power","Automatic Laser","Attack of the Cornered Rat","Proof of Powerlessness","Bone Temple Block","Mirror of Oaths"],
+    rare: ["Dark Verger","Blackwing - Blizzard the Far North","Morphtronic Remoten","Torapart","Koa'ki Meiru Ice","Brain Golem","Deep Sea Diva","One for One","Against the Wind","Iron Core of Koa'ki Meiru","Calming Magic","Moja","Berserking","Spell of Pain","Snowman Eater","Tree Otter","Ojama Red","Ojama Blue","Ojama Country","Emperor Sem"],
+    supr: ["Rockstone Warrior","Level Warrior","Phoenixian Cluster Amaryllis","Koa'ki Meiru Valafar","Koa'ki Meiru Powerhand","Reinforced Human Psychic Borg","Blackwing Armed Wing","Sea Dragon Lord Gishilnodon","Magic Planter","Delta Crow - Anti Reverse","Swallow Flip","Koa'ki Meiru War Arms","Beast Striker","Swallow's Nest"],
+    ultra: ["Strong Wind Dragon","Blackwing - Elphin the Raven","Earthbound Immortal Aslla piscu","Earthbound Immortal Ccapac Apu","Koa'ki Meiru Drago","Exploder Dragonwing","Power Tool Dragon","Trident Dragion","Forbidden Chalice","Grave of the Super Ancient Organism"],
+    secret: ["Battlesotrm","Immortal Ruler","Hardened Armed Dragon","King of the Beasts","Overwhelm","Light End Dragon","Chaos-End Master","Sphere of Chaos"],
+    ultimate: ["Strong Wind Dragon","Blackwing - Elphin the Raven","Earthbound Immortal Aslla piscu","Earthbound Immortal Ccapac Apu","Koa'ki Meiru Drago","Exploder Dragonwing","Power Tool Dragon","Trident Dragion","Forbidden Chalice","Grave of the Super Ancient Organism"],
+    ghost: ["Power Tool Dragon"],
+    price: 100,
+    commonnum: 7,
+    commonnum2: 1,
+    rarenum: 1,
+    supernum: 1,
+    ultranum: 1,
+    secretnum: 1,
+    ultimatenum: 1,
+    ghostnum: 1
+}

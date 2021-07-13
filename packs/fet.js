@@ -1,0 +1,18 @@
+module.exports = {
+    name: 'fet',
+    description: "Flaming Eternity",
+    type: "sod-cdip",
+    cards: ["Sacred Phoenix of Nephthys","Silent Swordsman LV5","Gearfried the Swordmaster","Gatling Dragon","Granmarg the Rock Monarch","Behemoth the King of All Animals","Blast Magician","King Dragun","A Feather of the Phoenix","Lightning Vortex","Deck Devastation Virus","Ultimate Insect LV5","Big-Tusked Mammoth","Chiron the Mage","Shadowslayer","Brain Jacker","Meteor of Destruction","Swords of Concealing Light","Spiral Spear Strike","Cross Counter","Penalty Game!","Phoenix Wing Wind Blast","Assault of GHQ","Forced Ceasefire","Space Mambo","Divine Dragon Ragnarok","Chu-Ske the Mouse Fighter","Insect Knight","Hand of Nephthys","Element Valkyrie","Element Doom","Maji-Gire Panda","Catnipped Kitty","Kangaroo Champ","Hyena","Blade Rabbit","Mecha-Dog Marron","Armed Samurai - Ben Kei","Golem Sentry","Abare Ushioni","The Light - Hex-Sealed Fusion","The Dark - Hex-Sealed Fusion","The Earth - Hex-Sealed Fusion","Whirlwind Prodigy","Flame Ruler","Firebird","Rescue Cat","Poison Fangs","Release Restraint","Centrifugal Field","Fulfillment of the Contract","Re-Fusion","The Big March of Animals","Pole Position","Threatening Roar","Good Goblin Housekeeping","Beast Soul Swap","D.D. Dynamite","Elemental Burst"],
+    common: ["Space Mambo","Divine Dragon Ragnarok","Chu-Ske the Mouse Fighter","Insect Knight","Hand of Nephthys","Element Valkyrie","Element Doom","Maji-Gire Panda","Catnipped Kitty","Kangaroo Champ","Hyena","Blade Rabbit","Mecha-Dog Marron","Armed Samurai - Ben Kei","Golem Sentry","Abare Ushioni","The Light - Hex-Sealed Fusion","The Dark - Hex-Sealed Fusion","The Earth - Hex-Sealed Fusion","Whirlwind Prodigy","Flame Ruler","Firebird","Rescue Cat","Poison Fangs","Release Restraint","Centrifugal Field","Fulfillment of the Contract","Re-Fusion","The Big March of Animals","Pole Position","Threatening Roar","Good Goblin Housekeeping","Beast Soul Swap","D.D. Dynamite","Elemental Burst"],
+    rare: ["Ultimate Insect LV5","Big-Tusked Mammoth","Chiron the Mage","Shadowslayer","Brain Jacker","Meteor of Destruction","Swords of Concealing Light","Spiral Spear Strike","Cross Counter","Penalty Game!","Phoenix Wing Wind Blast","Assault of GHQ","Forced Ceasefire"],
+    super: ["Granmarg the Rock Monarch","Behemoth the King of All Animals","Blast Magician","King Dragun","A Feather of the Phoenix","Lightning Vortex","Deck Devastation Virus"],
+    ultra: ["Sacred Phoenix of Nephthys","Silent Swordsman LV5","Gearfried the Swordmaster","Gatling Dragon"],
+    ultimate: ["Sacred Phoenix of Nephthys","Silent Swordsman LV5","Gearfried the Swordmaster","Gatling Dragon","Granmarg the Rock Monarch","Behemoth the King of All Animals","Blast Magician","King Dragun","A Feather of the Phoenix","Lightning Vortex","Deck Devastation Virus","Ultimate Insect LV5","Big-Tusked Mammoth","Chiron the Mage","Shadowslayer","Brain Jacker","Meteor of Destruction","Swords of Concealing Light","Spiral Spear Strike","Cross Counter","Penalty Game!","Phoenix Wing Wind Blast","Assault of GHQ","Forced Ceasefire"],
+    price: 100,
+    commonnum: 7,
+    commonnum2: 1,
+    rarenum: 1,
+    supernum: 1,
+    ultranum: 1,
+    ultimatenum: 1,
+}

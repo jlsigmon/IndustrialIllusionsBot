@@ -1,0 +1,18 @@
+module.exports = {
+    name: 'cdip',
+    description: "Cyberdark Impact",
+    type: "sod-cdip",
+    cards: ["Allure Queen LV7","Dark Lucius LV8","Cyberdark Dragon","Cyber OGre 2","Cyberdark Horn","Cyberdark Edge","Cyberdark Keel","Cyber Esper","Storm Shooter","Trojan Blast","Cyber Shadow Gardna","Allure Queen LV5","Dark Lucius LV6","Vanity's Fiend","Vanity's Ruler","Iris, the Earth Mother","Lightning Punisher","Combo Master","Rampaging Rhynos","Flash of the Forbidden Spell","Miraculous Rebirth","Degenerate Circuit","Blasting Fuse","Dimensional Inversion","Black Horn of Heaven","Cyber Ogre","Allure Queen LV3","Dark Lucius LV4","Stray Asmodian","Abaki","Flame Ogre","Snipe Hunter","Blast Asmodian","Barrier Statue of the Abyss","Barrier Statue of the Torrent","Barrier Statue of the Inferno","Barrier Statue of the Stormwinds","Barrier Statue of the Drought","Barrier Statue of the Heavens","Queen's Bodyguard","Combo Fighter","Man Beast of Ares","Alien Infiltrator","Alien Mars","Corruption Cell 'A'","Ritual Foregone","Instant Fusion","Counter Cleaner","Linear Accelerator Cannon","Chain Strike","Mystical Wind Typhoon","Level Down!?","Senet Switch","Straight Flush","Justi-Break","Chain Healing","Chain Detonation","Byroad Sacrifice","Accumulated Fortune","Vanity's Call"],
+    common: ["Cyber Ogre","Allure Queen LV3","Dark Lucius LV4","Stray Asmodian","Abaki","Flame Ogre","Snipe Hunter","Blast Asmodian","Barrier Statue of the Abyss","Barrier Statue of the Torrent","Barrier Statue of the Inferno","Barrier Statue of the Stormwinds","Barrier Statue of the Drought","Barrier Statue of the Heavens","Queen's Bodyguard","Combo Fighter","Man Beast of Ares","Alien Infiltrator","Alien Mars","Corruption Cell 'A'","Ritual Foregone","Instant Fusion","Counter Cleaner","Linear Accelerator Cannon","Chain Strike","Mystical Wind Typhoon","Level Down!?","Senet Switch","Straight Flush","Justi-Break","Chain Healing","Chain Detonation","Byroad Sacrifice","Accumulated Fortune","Vanity's Call"],
+    rare: ["Allure Queen LV5","Dark Lucius LV6","Vanity's Fiend","Vanity's Ruler","Iris, the Earth Mother","Lightning Punisher","Combo Master","Rampaging Rhynos","Flash of the Forbidden Spell","Miraculous Rebirth","Degenerate Circuit","Blasting Fuse","Dimensional Inversion","Black Horn of Heaven"],
+    super: ["Cyberdark Horn","Cyberdark Edge","Cyberdark Keel","Cyber Esper","Storm Shooter","Trojan Blast","Cyber Shadow Gardna"],
+    ultra: ["Allure Queen LV7","Dark Lucius LV8","Cyberdark Dragon","Cyber OGre 2"],
+    ultimate: ["Allure Queen LV7","Dark Lucius LV8","Cyberdark Dragon","Cyber OGre 2","Cyberdark Horn","Cyberdark Edge","Cyberdark Keel","Cyber Esper","Storm Shooter","Trojan Blast","Cyber Shadow Gardna","Allure Queen LV5","Dark Lucius LV6","Vanity's Fiend","Vanity's Ruler","Iris, the Earth Mother","Lightning Punisher","Combo Master","Rampaging Rhynos","Flash of the Forbidden Spell","Miraculous Rebirth","Degenerate Circuit","Blasting Fuse","Dimensional Inversion","Black Horn of Heaven"],
+    price: 100,
+    commonnum: 7,
+    commonnum2: 1,
+    rarenum: 1,
+    supernum: 1,
+    ultranum: 1,
+    ultimatenum: 1,
+}
